@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>About</class>
+ <widget class="QDialog" name="About">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>226</width>
+    <height>111</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>About</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>-10</y>
+     <width>231</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>231</width>
+     <height>121</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>231</width>
+     <height>121</height>
+    </size>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;C Download Manager &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;v0.1&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Developer:&lt;/span&gt; Owais&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
