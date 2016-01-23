@@ -7,6 +7,7 @@ NOTE: Currently not maintaining this project due to busy schedule.
 * UI
 
 ### Expected Feature
+* Multi connection downloading
 * HTTP, HTTPS and FTP File Downloading
 * Queue in download
 * Chrome and Firefox "Download this file"
@@ -16,6 +17,7 @@ NOTE: Currently not maintaining this project due to busy schedule.
 * Qt with C++
 * Qt for UI
 * Qt Network library for Downloading
+* Multi Curl (may be)
 
 ### References
 * http://doc.qt.io/qt-5/qtnetwork-downloadmanager-example.html
