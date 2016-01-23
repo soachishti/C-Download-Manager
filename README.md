@@ -1,5 +1,5 @@
 # C Download Manager
-Complete File Download Manager in Qt 
+File Download Manager in Qt 
 
 NOTE: Currently not maintaining this project due to busy schedule.
 
