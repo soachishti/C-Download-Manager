@@ -18,8 +18,8 @@ NOTE: Currently not maintaining this project due to busy schedule.
 * Qt Network library for Downloading
 
 ### References
-http://doc.qt.io/qt-5/qtnetwork-downloadmanager-example.html
-http://doc.qt.io/qt-5/qtnetwork-download-example.html
+* http://doc.qt.io/qt-5/qtnetwork-downloadmanager-example.html
+* http://doc.qt.io/qt-5/qtnetwork-download-example.html
 
 ### Instruction to Compile
 * Install Visual Studio 2013
